@@ -1,1 +1,2 @@
 1.repository is created nd test1.txt file is created in repository.
+2.folder gitpractice created in github repository is cloned onto the local system for the further updation..
